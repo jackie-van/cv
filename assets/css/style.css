@@ -55,8 +55,7 @@ body {
   /*background-size: cover;*/
   background-position: top 0.3rem left 0.5rem;
   background-size: cover;
-  /*background-image: url(../images/bg-4.jpg);*/
-  background-image: url(../images/DSC04513.JPG);
+  background-image: url(../images/bg-8.png);
 }
 
 .gradient-border {
@@ -646,7 +645,7 @@ button.big-button:active::before {
   }
 /*card background color*/
   .header-card .header-card-wrapper {
-    background-color: rgba(12, 14, 19, 0.3);
+    background-color: rgba(44, 44, 168, 0.22);
     z-index: 999;
     border-radius: 5px;
     overflow: hidden;
